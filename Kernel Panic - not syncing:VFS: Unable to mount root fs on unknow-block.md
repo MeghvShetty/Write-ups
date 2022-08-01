@@ -1,7 +1,7 @@
 # Kernel Panic - not syncing:VFS: Unable to mount root fs on unknow-block(0,0)
 
-Why does this error shown?
-You are missing the initramfs for that kernel
+## Why am I getting this error?
+You are missing the initramfs for that kernel.
 
 Start with a livecd, open a a terminal and execute:
 ```
